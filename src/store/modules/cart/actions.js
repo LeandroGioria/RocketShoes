@@ -7,7 +7,7 @@ export function addToCartRequest(id) {
 
 export function addToCartSuccess(product) {
     return {
-        type: '@cart/ADD_SUCSESS',
+        type: '@cart/ADD_SUCCESS',
         product,
     };
 }
