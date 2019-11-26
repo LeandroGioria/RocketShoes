@@ -1,6 +1,7 @@
 import { createStore } from 'redux';
 import rootReducer from './modules/rootReducer';
 
+// Reactotron config console
 const enhancer =
     process.env.NODE_ENV === 'development'
         ? console.tron.createEnhancer()
