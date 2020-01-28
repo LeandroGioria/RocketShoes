@@ -3,9 +3,6 @@
 
 ### [Live Demo](https://luizbatanero-rocketshoes.netlify.com/)
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-
 ## Running Locally
 
 ```sh
